@@ -22,7 +22,7 @@ Potato crops are vulnerable to Synchytrium endobioticum, a fungus causing warts 
 Our developed machine learning model swiftly identifies pathotypes, supplementing time-consuming bio-tests. This tool rapidly and year-round determines S.endobioticum strains, including unknown pathotypes, aiding potato wart management.
 
 <div style="text-align: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Logo-nvwa.svg/1280px-Logo-nvwa.svg.png" alt="screenshot" width="200">
+<img src="https://riskplaza.com/wp-content/uploads/2014/10/NVWA-logo-1200x600.jpg" alt="screenshot" width="200">
 </div>
 
 ## Features
