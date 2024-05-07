@@ -10,7 +10,11 @@ A powerful machine learning model to swiftly identify pathotypes from S.endobiot
 </a>
 
 ## Table of Contents
-[TOC]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usages)
+- [Contact us](#contact-us)
 
 ## Introduction
 
