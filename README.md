@@ -4,8 +4,10 @@ A powerful machine learning model to swiftly identify pathotypes from S.endobiot
 <img src="https://thumbs.dreamstime.com/b/cartoon-potato-waving-illustration-smiling-47366824.jpg" alt="screenshot" width="200">
 </div>
 
-<a href="https://git.biocentre.nl/2324_Bio-Informatica_Jaar_3/BIN-3c"><img src="https://img.shields.io/badge/Gitea-click-blue"></a>
-<a href="https://www.paypal.me"><img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat" alt="Donate">
+<a href="https://git.biocentre.nl/2324_Bio-Informatica_Jaar_3/BIN-3c">
+<img src="https://img.shields.io/badge/Gitea-click-blue"></a>
+<a href="https://www.paypal.me">
+<img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat" alt="Donate">
 </a>
 
 ## Table of Contents
